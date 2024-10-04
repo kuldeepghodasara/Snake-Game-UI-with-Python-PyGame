@@ -24,7 +24,7 @@ Follow the steps below to get the game up and running on your local machine.
 ### Step 1: Clone the Repository
 Clone the repository from GitHub to your local machine:
 ```sh
-git clone https://github.com/kuldeepghodasara/ui-snake-game-python-pygame.git
+git clone https://github.com/kuldeepghodasara/Snake-Game-UI-with-Python-PyGame.git
 ```
 
 ### Step 2: Navigate to the Project Directory
